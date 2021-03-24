@@ -15,6 +15,8 @@ public class AppMain {
 	 */
 	public static void main(String[] args) {
 		System.out.println("¡Hola Mundo!");
+		
+		System.out.println("Soy el Desarrollador Rafael Ortega Armario");
 	}
 
 }
